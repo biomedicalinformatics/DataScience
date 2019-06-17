@@ -40,3 +40,11 @@ This project explores differential analysis of RNA-Seq data from TCGA, using the
 [Shiny Demo](https://dbmipittdatascience.shinyapps.io/Bias-variance-smoothing-shrinking/)
 
 An explanation of bias and variance and related implications for precision medicine, including consequences of using different definitions of groups for examinations of treatment effects.
+
+# Microbiome Analysis 
+
+[![DOI](https://zenodo.org/badge/164003850.svg)](https://zenodo.org/badge/latestdoi/164003850)
+
+[GitHub Repository](https://github.com/dbmi-pitt/MicrobiomeModule) 
+
+An introduction to the  use of [DECIPHER](http://www2.decipher.codes) tools to analyze  microbiome data, suitable for an introductory programming course. Topics covered include reading data, exploring the abundance of sequences for each sample, examining rank abundance curves, identifying abundant taxa, examining both alpha- and beta-diversity, identifying OTUS, and conducting principal component analysis to compare samples.
