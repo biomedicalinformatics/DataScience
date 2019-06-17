@@ -48,3 +48,14 @@ An explanation of bias and variance and related implications for precision medic
 [GitHub Repository](https://github.com/dbmi-pitt/MicrobiomeModule) 
 
 An introduction to the  use of [DECIPHER](http://www2.decipher.codes) tools to analyze  microbiome data, suitable for an introductory programming course. Topics covered include reading data, exploring the abundance of sequences for each sample, examining rank abundance curves, identifying abundant taxa, examining both alpha- and beta-diversity, identifying OTUS, and conducting principal component analysis to compare samples.
+
+# Image Segmentation and Slurm Job Processing
+
+[![DOI](https://zenodo.org/badge/164016740.svg)](https://zenodo.org/badge/latestdoi/164016740)
+
+[GitHub Repository](https://github.com/dbmi-pitt/ImageSegmentation-and-Slurm)
+
+Two modules exploring key data science topics:
+
+* Image Segmentation through Deep Learning.
+* Using R and Slurm for high-performance computing
