@@ -12,6 +12,7 @@ Links to these resources are provided below, grouped by institution.
 ## Social Media Data Science
 
 [![DOI](https://zenodo.org/badge/147564959.svg)](https://zenodo.org/badge/latestdoi/147564959)
+
 [GitHub Repository](https://github.com/dbmi-pitt/SocialMediaDataScience)
 
 Social media can be a useful source of information regarding public discussion of health issues.  Using this data requires informatics strategies for retrieving, storing, annotating, interpreting, and classifying this data. 
