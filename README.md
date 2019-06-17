@@ -25,8 +25,18 @@ Students should have some background in Python programming. A Twitter developer 
 
 [![DOI](https://zenodo.org/badge/170748515.svg)](https://zenodo.org/badge/latestdoi/170748515)
 
-[GitHub Repository]
+[GitHub Repository](https://github.com/dbmi-pitt/tcga_brca_rnaseq)
 
 The examination of gene expression patterns in breast cancer samples can provide valuable insights into genetic activity underlying cancers and distinguishing between cancer subtypes. Although the public availability of gene expression data sets through resources such as the Cancer Genome Atlas (TCGA) provides opportunities for exploring and analyzing these datasets, asking meaningful questions often requires the examination of multiple data sets from various sources, manipulation of the data in preparation for analysis, and use of research tools for conducting analyses.
 
 This project explores differential analysis of RNA-Seq data from TCGA, using the R statistical environment and Bioconductor tools, primarily the DESeq2 differential gene analysis package.
+
+# Lumping and splitting: Bias, Variance, Smoothing, and Shrinking
+
+[![DOI](https://zenodo.org/badge/164016584.svg)](https://zenodo.org/badge/latestdoi/164016584)
+
+[GitHub Repository](https://github.com/dbmi-pitt/Bias-variance-smoothing-shrinking)
+
+[Shiny Demo](https://dbmipittdatascience.shinyapps.io/Bias-variance-smoothing-shrinking/)
+
+An explanation of bias and variance and related implications for precision medicine, including consequences of using different definitions of groups for examinations of treatment effects.
