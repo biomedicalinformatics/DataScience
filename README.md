@@ -21,6 +21,12 @@ This module challenges users to explore Twitter data, using the Python programmi
 
 Students should have some background in Python programming. A Twitter developer account is required. Instructions on acquiring and configuring Twitter accounts are included.
 
+# Differential expression analysis of RNA-Seq data from TCGA
 
+[![DOI](https://zenodo.org/badge/170748515.svg)](https://zenodo.org/badge/latestdoi/170748515)
 
+[GitHub Repository]
 
+The examination of gene expression patterns in breast cancer samples can provide valuable insights into genetic activity underlying cancers and distinguishing between cancer subtypes. Although the public availability of gene expression data sets through resources such as the Cancer Genome Atlas (TCGA) provides opportunities for exploring and analyzing these datasets, asking meaningful questions often requires the examination of multiple data sets from various sources, manipulation of the data in preparation for analysis, and use of research tools for conducting analyses.
+
+This project explores differential analysis of RNA-Seq data from TCGA, using the R statistical environment and Bioconductor tools, primarily the DESeq2 differential gene analysis package.
