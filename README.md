@@ -9,7 +9,7 @@ Links to these resources are provided below, grouped by institution.
 
 *Note*: These resources can be also be found at [datascience.dbmi.pitt.edu](https://datascience.dbmi.pitt.edu) 
 
-## [Social Media Data Science]
+## Social Media Data Science
 
 [![DOI](https://zenodo.org/badge/147564959.svg)](https://zenodo.org/badge/latestdoi/147564959)
 [GitHub Repository](https://github.com/dbmi-pitt/SocialMediaDataScience)
