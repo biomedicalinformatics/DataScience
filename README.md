@@ -1,8 +1,8 @@
 # Data Science
 
-With the support of supplemental funding, insitutions hosting the National Library of Medicine's [Biomedical Informatics and Data Science Ressearch Training Programs](https://www.nlm.nih.gov/ep/GrantTrainInstitute.html) developed data science training materials, with the express goal of providing these materials as shareable resources for the educational community. 
+With the support of supplemental funding, universities hosting  National Library of Medicine [Biomedical Informatics and Data Science Research Training Programs](https://www.nlm.nih.gov/ep/GrantTrainInstitute.html) developed data science training materials. 
 
-Links to these resources are provided below, grouped by institution.
+As one of the goals of this initiatiave was to providing these materials as shareable resources for the educational community, links to these resources are provided below, grouped by institution.
 
 ---
 # [University of Pittsburgh](https://www.dbmi.pitt.edu)
