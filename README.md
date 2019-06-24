@@ -59,3 +59,22 @@ Two modules exploring key data science topics:
 
 * Image Segmentation through Deep Learning.
 * Using R and Slurm for high-performance computing
+
+---
+# Rice University 
+
+[Website with course materials](http://dstoolsandmodels.rice.edu/)
+
+This site contains source material for the semester-long course "Tools and Models for Data Science", 
+developed with funding from the NLM.  "Tools and Models for Data Science"
+provides a very wide and yet reasonably deep view of the field of data science.
+As the name implies, much of the course is concerned with the practice
+and theory of modern tools (software systems) for data science.
+Relational databases and SQL are covered in depth, as well as
+MapReduce and Spark. The course covers the basics of mathematical
+programming with NumPy—especially the importance of vectorized
+programming—and deep learning systems such as TensorFlow. In
+addition to those systems, the course covers basic statistical
+modeling, basic and intermediate topics in optimization (optimization
+is the foundation of “learning” in machine learning systems) and the
+foundations of machine learning.
