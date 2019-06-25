@@ -68,7 +68,7 @@ Two modules exploring key data science topics:
 
 An introductory module to the use of the [Immcantation framework](http://immcantation.org) to analyze high-throughput adaptive immune receptor repertoire sequencing (AIRR-seq) data. This tutorial covers common investigative approaches and pitfalls in AIRR-seq data analysis, including:
 
-<a href="http://immcantation.org"><img src="https://bitbucket.org/kleinstein/immcantation/raw/5357d31d42e37e55671e4fa10a8b9787dc69a45f/docs/_static/logo.svg" width="20%" style="float:left;padding-right:2em"></a>
+<a href="http://immcantation.org"><img src="https://bitbucket.org/kleinstein/immcantation/raw/5357d31d42e37e55671e4fa10a8b9787dc69a45f/docs/_static/logo.svg" width="18%" align="right"></a>
 
 * V(D)J gene annotation and novel polymorphism detection
 * Clonotype assignment
