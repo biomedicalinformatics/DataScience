@@ -60,10 +60,9 @@ Two modules exploring key data science topics:
 * Image Segmentation through Deep Learning.
 * Using R and Slurm for high-performance computing
 
----
 # [Rice University](http://www.rice.edu) 
 
-# Tools and Models for Data Science
+## Tools and Models for Data Science
 
 [Website with course materials](http://dstoolsandmodels.rice.edu/)
 
@@ -80,7 +79,7 @@ addition to those systems, the course covers basic statistical
 modeling, basic and intermediate topics in optimization (optimization
 is the foundation of “learning” in machine learning systems) and the
 foundations of machine learning.
-=======
+
 # [Yale University](https://medicine.yale.edu/ycmi/)
 
 # Introduction to B cell repertoire analysis with the Immcantation framework
