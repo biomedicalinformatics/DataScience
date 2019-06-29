@@ -61,7 +61,9 @@ Two modules exploring key data science topics:
 * Using R and Slurm for high-performance computing
 
 ---
-# Rice University 
+# [Rice University](http://www.rice.edu) 
+
+# Tools and Models for Data Science
 
 [Website with course materials](http://dstoolsandmodels.rice.edu/)
 
