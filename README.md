@@ -77,7 +77,7 @@ programming with NumPy—especially the importance of vectorized
 programming—and deep learning systems such as TensorFlow. In
 addition to those systems, the course covers basic statistical
 modeling, basic and intermediate topics in optimization (optimization
-is the foundation of “learning” in machine learning systems) and the
+is the foundation of "learning" in machine learning systems) and the
 foundations of machine learning.
 
 # [Yale University](https://medicine.yale.edu/ycmi/)
