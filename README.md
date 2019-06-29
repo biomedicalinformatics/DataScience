@@ -60,7 +60,6 @@ Two modules exploring key data science topics:
 * Image Segmentation through Deep Learning.
 * Using R and Slurm for high-performance computing
 
-<<<<<<< HEAD
 ---
 # Rice University 
 
