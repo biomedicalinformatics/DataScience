@@ -66,8 +66,6 @@ Two modules exploring key data science topics:
 
 [Website with course materials](http://dstoolsandmodels.rice.edu/)
 
-<a href="http://immcantation.org"><img src=""http://dstoolsandmodels.rice.edu/files/2019/05/DSTM-6.png width="18%" align="right"></a>
-
 This site contains source material for the semester-long course "Tools and Models for Data Science", 
 developed with funding from the NLM.  "Tools and Models for Data Science"
 provides a very wide and yet reasonably deep view of the field of data science.
