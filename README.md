@@ -96,3 +96,13 @@ An introductory module to the use of the [Immcantation framework](http://immcant
 * Mutational load profiling
 * Modeling of somatic hypermutation targeting
 * Quantification of selection pressure
+
+# PySeqLab: supervised learning in structured prediction tasks
+
+[Bitbucket Repository](https://bitbucket.org/A_2/pyseqlab/src/master/tutorials)
+
+[Read the Docs](https://pyseqlab.readthedocs.io/en/latest/methods_tutorials.html)
+
+PySeqLab is an open source package for performing supervised learning in structured prediction tasks. It implements conditional random fields (CRFs) models from (1) first-order to higher-order linear-chain CRFs, and from (2) first-order to higher-order semi-Markov CRFs (semi-CRFs). PySeqLab can be used in very diverse domains, from natural language processing (NLP) to classification of genetic sequences. 
+
+
