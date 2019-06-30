@@ -96,4 +96,3 @@ An introductory module to the use of the [Immcantation framework](http://immcant
 * Mutational load profiling
 * Modeling of somatic hypermutation targeting
 * Quantification of selection pressure
->>>>>>> b0e7a9044ce7bf5946a684bb5881fc51eb35b80e
