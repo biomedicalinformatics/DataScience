@@ -61,6 +61,14 @@ Two modules exploring key data science topics:
 * Image Segmentation through Deep Learning.
 * Using R and Slurm for high-performance computing
 
+# Propensity Score Causal Inference
+
+A tutorial on the use of potential outcomes as a meaans of identifying causal effects, including the use of propensity score-based methods for evaluating causal relationships.
+
+[![DOI](https://zenodo.org/badge/192385387.svg)](https://zenodo.org/badge/latestdoi/192385387)
+
+[GitHub Repository](https://github.com/dbmi-pitt/PropensityScoreCausalInference)
+
 # [Rice University](http://www.rice.edu) 
 
 ## Tools and Models for Data Science
