@@ -114,4 +114,10 @@ An introductory module to the use of the [Immcantation framework](http://immcant
 
 PySeqLab is an open source package for performing supervised learning in structured prediction tasks. It implements conditional random fields (CRFs) models from (1) first-order to higher-order linear-chain CRFs, and from (2) first-order to higher-order semi-Markov CRFs (semi-CRFs). PySeqLab can be used in very diverse domains, from natural language processing (NLP) to classification of genetic sequences. 
 
+# FAIR Data Sharing
 
+An introductory to FAIR (Findable, Accessible, Interoperable, Reusable) data sharing guidelines, practices and the resources available.
+
+[FAIR Data Sharing Slides](https://docs.google.com/presentation/d/1ibXjYnJ8UKFSThVyHSC0YPJKFcj3c2ZyONRvSpPwKNg/edit?usp=sharing)
+
+[FAIR API Slides](https://docs.google.com/presentation/d/1ZC53VUciV29b8ZvvpyG4Oc4NB4h7xrDVnQTLsU9pnFQ/edit?usp=sharing)
