@@ -8,8 +8,6 @@ As one of the goals of this initiatiave was to providing these materials as shar
 # [University of Pittsburgh](https://www.dbmi.pitt.edu)
 
 
-*Note*: These resources can be also be found at [datascience.dbmi.pitt.edu](https://datascience.dbmi.pitt.edu)
-
 ## Social Media Data Science
 
 [![DOI](https://zenodo.org/badge/147564959.svg)](https://zenodo.org/badge/latestdoi/147564959)
